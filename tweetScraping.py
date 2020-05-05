@@ -6,7 +6,7 @@ import pandas as pd
 ### NOTE I WOULD NOT RUN THIS,
 
 ### I had to let this run overnight for this to completely run, and it crashed my vm
-### In hindsight I would
+### In hindsight I would have done this in increments
 maxTweets = 1000
 
 search = 'coronavirus'
